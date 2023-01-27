@@ -1,0 +1,33 @@
+{
+    "page_no": 1,
+    "Data": [
+        {
+            'Name': 'Ujwal Patil',
+            'Mob': '9325697486',
+            'Address': 'Akurdi',
+            'City': 'Pune',
+            'ID': 1
+        },
+        {
+            'Name': 'Suraj Tapase',
+            'Mob': '1235158',
+            'Address': 'Akurdi',
+            'City': 'Pune',
+            'ID': 2
+        },
+        {
+            'Name': 'Juee jadhav',
+            'Mob': '1135',
+            'Address': 'pune',
+            'City': 'Pune',
+            'ID': 3
+        },
+        {
+            'Name': 'Aayush D.',
+            'Mob': '113455',
+            'Address': 'pune',
+            'City': 'Pune',
+            'ID': 4
+        }
+    ]
+}
